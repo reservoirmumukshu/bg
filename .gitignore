@@ -1,0 +1,15 @@
+# ... ignore the following files
+.vs*
+.env
+.ipynb_checkpoints
+tempCodeRunnerFile.py
+.~lock*.*
+Untitled*.*
+z*.*
+credentials.json
+
+#...ignore folders
+__py*/
+z*/
+log/*.*
+
